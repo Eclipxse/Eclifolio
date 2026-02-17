@@ -28,6 +28,9 @@
   "devDependencies": {
     "@nuxt/icon": "^1.4.5"
   },
+  "overrides": {
+    "@iconify/vue": "^5.0.0"
+  },
   "engines": {
     "node": ">=22.12.0"
   }
