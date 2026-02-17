@@ -27,8 +27,5 @@
   },
   "devDependencies": {
     "@nuxt/icon": "^1.4.5"
-  },
-  "engines": {
-    "node": ">=22.12.0"
   }
 }
